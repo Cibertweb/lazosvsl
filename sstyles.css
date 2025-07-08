@@ -29,7 +29,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('back3.jpg') center/cover;
+    background: url('back01.jpg') center/cover;
     opacity: 0.4;
     z-index: 1;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .logo {
-    max-width: 250px;
+    max-width: 210px;
     height: auto;
     border-radius: 20px 2px 20px 2px;
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
@@ -405,6 +405,13 @@ body {
     .hero-slogan {
         font-size: 1.2rem;
     }
+
+    .logo {
+    max-width: 150px;
+    height: auto;
+    border-radius: 20px 2px 20px 2px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
     
     .section-title {
         font-size: 2rem;
@@ -427,6 +434,13 @@ body {
     .hero-slogan {
         font-size: 1rem;
     }
+
+    .logo {
+    max-width: 150px;
+    height: auto;
+    border-radius: 20px 2px 20px 2px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
     
     .product-features {
     color: #666;
